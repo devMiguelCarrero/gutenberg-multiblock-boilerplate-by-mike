@@ -1,0 +1,19 @@
+{
+	"apiVersion": 2,
+	"name": "gutenberg-multiblock-boilerplate-by-mike/test-block-1",
+	"title": "Boilerplate Test Block 1",
+	"category": "widgets",
+	"icon": "admin-post",
+	"description": "I'm just a testing block, you can change my name, attributes and other data",
+	"keywords": ["testing", "block", "text"],
+	"supports": {
+		"html": false,
+		"color": {
+			"gradients": false,
+			"background": false,
+			"icon": true,
+			"text": true
+		}
+	},
+	"textdomain": "test-block-1"
+}

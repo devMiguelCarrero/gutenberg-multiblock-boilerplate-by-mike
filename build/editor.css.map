@@ -1,0 +1,1 @@
+{"version":3,"file":"editor.css","mappings":";;;;;;;AAAA;EACC;EACA;EACA;AACD,C","sources":["webpack://gutenberg-multiblock-boilerplate-by-mike/./src/blocks/test-block-2/style.editor.scss"],"sourcesContent":[".gutenberg-multiblock-boilerplate-test-block-2 {\r\n\tborder: solid 1px var(--main-color);\r\n\tborder-radius: 15px;\r\n\tpadding: 1rem;\r\n}"],"names":[],"sourceRoot":""}
